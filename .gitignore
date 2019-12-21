@@ -1,0 +1,5 @@
+# .gitignore
+# HelloWorld file
+*.class
+# temp sub-directory (ended with a directory separator)
+temp/
